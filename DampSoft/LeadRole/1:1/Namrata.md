@@ -1,2 +1,15 @@
-Next Topics: 
-  - How these ids/guids are being generated https://github.com/adento/anamnese-at-home-frontend/pull/217/files
+## Next Topics:
+-
+
+## ToDO
+- Create a structure for 1:1
+
+  
+
+
+
+## 08.14.2025
+### Talked About
+    - 1:1 Structures
+    - Team / other chitchat
+    - Recall element ID generation, etc.
