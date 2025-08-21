@@ -5,6 +5,8 @@ Points to discuss:
 - Team Vocation: Do they need to ask the Team Lead?
 - Solution for Asana may replace it with Miro
 - Car
+- Open questions C5 (AE-2429):Should we wait until we have a company wide keycloak instance, or should we migrate to the new athena instance already? - Daniel Rechlitz will answer this
+
 
 
 
