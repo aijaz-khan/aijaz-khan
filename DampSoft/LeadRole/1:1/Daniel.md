@@ -1,6 +1,13 @@
+
+
+#### Points to discuss:
+- New Roles (for cloud, or box as well)
+- Monitor colleagues'/sick leave entries in Personio, etc
+- 
+
+
 ### 22.08.2025
   - 
-
 Points to discuss:
 - Box Ruby Versions
 - Cloud / when we are planning to move away from On Prem solution
@@ -10,6 +17,7 @@ Points to discuss:
 - DampSoft Card
 - Car
 - Open questions C5 (AE-2429):Should we wait until we have a company wide keycloak instance, or should we migrate to the new athena instance already? - Daniel Rechlitz will answer this
+
 
 
 
