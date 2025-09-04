@@ -1,4 +1,9 @@
 ## 04.09.2025
+
+### Topics Discussed
+  - Random (flood, politics, flood, etc)
+  - How to make documentation better
+  - More Discussion about RabbitMQ(extra config files that we have in folder)
 ### Talking points 
   - Rabmit MQ
   - Suggestion about the Docs & Knowledge Base
@@ -11,4 +16,5 @@
 - Working on => Same message for http and Ds4 version, what we are doing for DsWin (Cloud Ds4)
 ## Action Items
 - Discuss more work-related things
+
 
